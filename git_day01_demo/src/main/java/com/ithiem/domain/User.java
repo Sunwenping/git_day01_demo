@@ -5,6 +5,9 @@ public class User {
    private Integer id;
    private String sex;
 
+   //前端开发
+   private  int B;
+
    //后端开发
     private int A;
 }
