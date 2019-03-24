@@ -2,6 +2,7 @@ package com.ithiem.domain;
 
 public class User {
    private String name;
+   private String abc;
    private Integer id;
    private String sex;
 
